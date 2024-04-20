@@ -1,0 +1,26 @@
+
+
+
+GET http://localhost:3000/users?username=dele
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POST http://localhost:3000/users/create
+Content-Type: application/json
+
+{
+    "username": "Ayobami01",
+    "password": "password"
+}
